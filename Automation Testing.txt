@@ -1,2 +1,0 @@
-Launch Browser.java
-Login.java
