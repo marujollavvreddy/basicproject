@@ -1,5 +1,0 @@
-this line is from git bash
-this line1 is from goit bash
-this line is from wd
-this line1 is from wd
-
